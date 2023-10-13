@@ -1,0 +1,10 @@
+E:\Document Rodion\project C#\EncryptAndDecrypt\EncryptAndDecrypt\bin\Debug\EncryptAndDecrypt.exe.config
+E:\Document Rodion\project C#\EncryptAndDecrypt\EncryptAndDecrypt\bin\Debug\EncryptAndDecrypt.exe
+E:\Document Rodion\project C#\EncryptAndDecrypt\EncryptAndDecrypt\bin\Debug\EncryptAndDecrypt.pdb
+E:\Document Rodion\project C#\EncryptAndDecrypt\EncryptAndDecrypt\obj\Debug\EncryptAndDecrypt.csproj.AssemblyReference.cache
+E:\Document Rodion\project C#\EncryptAndDecrypt\EncryptAndDecrypt\obj\Debug\EncryptAndDecrypt.Form1.resources
+E:\Document Rodion\project C#\EncryptAndDecrypt\EncryptAndDecrypt\obj\Debug\EncryptAndDecrypt.Properties.Resources.resources
+E:\Document Rodion\project C#\EncryptAndDecrypt\EncryptAndDecrypt\obj\Debug\EncryptAndDecrypt.csproj.GenerateResource.cache
+E:\Document Rodion\project C#\EncryptAndDecrypt\EncryptAndDecrypt\obj\Debug\EncryptAndDecrypt.csproj.CoreCompileInputs.cache
+E:\Document Rodion\project C#\EncryptAndDecrypt\EncryptAndDecrypt\obj\Debug\EncryptAndDecrypt.exe
+E:\Document Rodion\project C#\EncryptAndDecrypt\EncryptAndDecrypt\obj\Debug\EncryptAndDecrypt.pdb
